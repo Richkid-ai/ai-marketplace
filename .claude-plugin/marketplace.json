@@ -1,0 +1,15 @@
+{
+  "name": "richkid",
+  "owner": {
+    "name": "Richkid"
+  },
+  "plugins": [
+    {
+      "name": "ponytail",
+      "source": "./plugins/ponytail",
+      "description": "Lazy senior dev mode. Forces the simplest, shortest solution that actually works: YAGNI, stdlib first, no unrequested abstractions.",
+      "version": "4.10.0",
+      "license": "MIT"
+    }
+  ]
+}
