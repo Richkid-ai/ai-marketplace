@@ -10,6 +10,15 @@
       "description": "Lazy senior dev mode. Forces the simplest, shortest solution that actually works: YAGNI, stdlib first, no unrequested abstractions.",
       "version": "4.10.0",
       "license": "MIT"
+    },
+    {
+      "name": "cowork-plugin-management",
+      "source": "./plugins/cowork-plugin-management",
+      "description": "Create, customize, and manage plugins tailored to your organization's tools and workflows. Requires the Cowork desktop app environment — not plain Claude Code.",
+      "version": "0.2.2",
+      "author": {
+        "name": "Anthropic"
+      }
     }
   ]
 }
